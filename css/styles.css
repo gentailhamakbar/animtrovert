@@ -1,0 +1,52 @@
+/* *{
+    font-family: Arial, Helvetica, sans-serif; 
+}*/
+
+.img-large {
+  width: 120px;
+}
+
+.navbar {
+  height: auto;
+}
+
+.header {
+  margin-top: 95px;
+
+  /* margin-left: 290px;
+    margin-right: auto; */
+}
+
+#news img {
+  height: auto;
+  width: 100%;
+}
+
+#carouselExampleAutoplaying {
+  width: 65%;
+}
+
+#news {
+  text-decoration: none;
+  color: black;
+}
+
+#news:hover {
+  color: #0d6efd;
+}
+
+/* .card-title, .card-text{
+    font-size: 70%;
+} */
+
+.card-body {
+  font-size: auto;
+}
+
+#sosmed {
+  text-decoration: none;
+}
+
+#isi-berita p {
+  text-align: justify;
+}
