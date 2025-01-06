@@ -1,1 +1,1 @@
-Animtrovert is a media that give you a lot of update about Japanese entertainment such as anime, manga, novel, etc.
+Animtrovert is a media that give you a lot of news update about Japanese entertainment such as anime, manga, novel, etc.
